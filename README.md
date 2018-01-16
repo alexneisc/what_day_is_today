@@ -1,2 +1,1 @@
-# what_day_is_today
-whatdayistoday.info
+http://whatdayistoday.info
